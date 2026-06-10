@@ -2,6 +2,10 @@
 
  This is a simple, interactive calculator web app that I built to practice my frontend development skills. It runs entirely in the browser and handles all the basic math operations you need daily.
 
+##  Live Preview
+
+👉 Click here to try it out:(https://nada-mosab.github.io/Calculator/)
+
 
 ## What I Built & How It Works
 
